@@ -3,7 +3,12 @@ You've learned a lot about web development so far. I want you to take a moment t
   * What has been easy?
   * What has been difficult?
   * How have you used the problem solving strategies from the first project to overcome challenges so far?
-
 ---
 
-Your response goes here!
+  * I was not familiar with the <time> tag, as well the <del> tag. I also read about the <strike> tag, which is not yet supported in HTML5.
+
+  * For the most part, things have been coming to me pretty easily so far. I do have background working in HTML5 and CSS3, so this is not a surprise. However, so far, these exercises have proven to be good review.
+
+  * Nothing has been too difficult yet, but I know the difficulty is going to ramp up as I progress, especially when we start diving into the JavaScript portion of the course. 
+
+  * Reading entries on W3schools.org and MDN to get acquainted with new tags and their proper usage. Both of those websites are great resources, especially since they include examples. 
